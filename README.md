@@ -11,10 +11,10 @@ En este espacio crearemos repositorios de código de la plataforma Gestiona en s
 
 ## Repositorios activos
 
-### + Procesos administrativos reglados
-### + Procedimientos administrativos simplificados
-### + Calculadoras
-### + Hojas de análisis de datos para cuadros de mando
+### * Procesos administrativos reglados
+### * Procedimientos administrativos simplificados
+### * Calculadoras
+### * Hojas de análisis de datos para cuadros de mando
 
 
 <!--
