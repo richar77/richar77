@@ -8,7 +8,15 @@ En este espacio crearemos repositorios de código de la plataforma Gestiona en s
 - Procedimientos administrativos simplificados
 - Calculadoras
 - Hojas de análisis de datos para cuadros de mando
- 
+
+## Repositorios activos
+
+### + Procesos administrativos reglados
+### + Procedimientos administrativos simplificados
+### + Calculadoras
+### + Hojas de análisis de datos para cuadros de mando
+
+
 <!--
 **richar77/richar77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
