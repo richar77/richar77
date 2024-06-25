@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hola, mi nombre es Ricardo 👋
 
+#### Soy la persona encargada de ayudarte a compartir tu conocimiento
+
+En este espacio crearemos repositorios de código de la plataforma Gestiona en sus diferentes variantes:
+
+- Procesos administrativos reglados
+- Procedimientos administrativos simplificados
+- Calculadoras
+- Hojas de análisis de datos para cuadros de mando
+ 
 <!--
 **richar77/richar77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
