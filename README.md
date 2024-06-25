@@ -9,7 +9,7 @@ En este espacio crearemos repositorios de código de la plataforma Gestiona en s
 - Calculadoras
 - Hojas de análisis de datos para cuadros de mando
 
-![] (https://github.com/richar77/richar77/blob/main/Portada.png)
+![](https://github.com/richar77/richar77/blob/main/Portada.png)
 
 ## Repositorios activos
 
