@@ -9,6 +9,8 @@ En este espacio crearemos repositorios de código de la plataforma Gestiona en s
 - Calculadoras
 - Hojas de análisis de datos para cuadros de mando
 
+https://github.com/richar77/richar77/blob/main/Captura%20de%20pantalla%202024-06-25%20a%20las%2010.35.27.png?raw=true
+
 ## Repositorios activos
 
 ### * Procesos administrativos reglados
